@@ -6,8 +6,6 @@ Time spent: **3** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
-
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
