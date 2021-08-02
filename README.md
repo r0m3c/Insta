@@ -13,5 +13,5 @@ Time spent: **3** hours spent in total
 - [x] User can view the last 20 posts. (4pts)
 
 ## Video Walkthrough
-![](https://media.giphy.com/media/BBMU1MgkQgnxXQKmyD/giphy.gif)
+![](https://media.giphy.com/media/RixFcB1yc5zja5IQBd/giphy.gif)
 
