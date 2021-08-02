@@ -15,4 +15,4 @@ The following **required** functionality is completed:
 - [x] User can view the last 20 posts. (4pts)
 
 ## Video Walkthrough
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://media.giphy.com/media/yCC5IhY9d98WOR6iS8/giphy.gif)
