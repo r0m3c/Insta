@@ -64,6 +64,8 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         tableView.reloadData()
         
         
+        
+        
         commentBar.inputTextView.text = nil
         showsCommentBar = false
         becomeFirstResponder()
