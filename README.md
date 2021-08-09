@@ -1,6 +1,20 @@
-# Insta - Part I
+# Insta - Part II
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **3** hours spent in total
+
+## User Stories
+
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can log out. (1pt)
+- [x] User can view comments on a post. (3pts)
+- [x] User can add a new comment. (5pts)
+
+## Video Walkthrough
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+# Insta - Part I
 
 Time spent: **3** hours spent in total
 
