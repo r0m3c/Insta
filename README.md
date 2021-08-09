@@ -12,7 +12,7 @@ Time spent: **3** hours spent in total
 - [x] User can add a new comment. (5pts)
 
 ## Video Walkthrough
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://media.giphy.com/media/8RbVBAkKBn6xiZXaTE/giphy.gif)
 
 # Insta - Part I
 
